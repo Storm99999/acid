@@ -24,7 +24,7 @@
 Acid is a usermode level modding utility for Roblox.
 
 Dark Textures, Gray Sky, Custom Crosshairs, Minecraft Fonts<br />
-Sphere is written in C#, and should be compatible with all windows devices.
+Acid is written in C#, and should be compatible with all windows devices.
 
 
 </div>
