@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\acid.fun\acid.fun\bin\Debug\acid.fun.exe.config
+C:\Users\Admin\source\repos\acid.fun\acid.fun\bin\Debug\acid.fun.exe
+C:\Users\Admin\source\repos\acid.fun\acid.fun\bin\Debug\acid.fun.pdb
+C:\Users\Admin\source\repos\acid.fun\acid.fun\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.Properties.Resources.resources
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.csproj.CopyComplete
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.exe
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.pdb
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.MainForm.resources
+C:\Users\Admin\source\repos\acid.fun\acid.fun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\acid.fun\acid.fun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\acid.fun\acid.fun\obj\Debug\acid.fun.CrosshairOverlay.resources
