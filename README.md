@@ -38,3 +38,6 @@ Got issues? https://discord.gg/moneygang is there to help! Join and ask around.
 
 ## Braindead? Compile from source!
 ![image](https://cdn.discordapp.com/attachments/1117523797361311817/1275539186077925407/attachment.gif?ex=66c641f0&is=66c4f070&hm=b2b26ea9b87e3194f2b2e7d4d864e124573f890019ae2a98cd90671ad93dac8f&)
+
+## Super secretive OPSEC drug lord? Use DNSpy!
+https://github.com/dnSpy/dnSpy - Decompile, hacker in, reverse engineer the super protected acid.fun executable file to provide maximum security when opening it!
